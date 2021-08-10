@@ -11,4 +11,8 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 
 ### Método da bisseção
 
-O método da bisseção é um método de busca de raízes que bissecta repetidamente um intervalo e então seleciona um subintervalo contendo a raiz para processamento adicional
+O método da bisseção é um método de busca de raízes que bissecta repetidamente um intervalo e então seleciona um subintervalo contendo a raiz para processamento adicional.
+
+#### O método
+
+Este método pode ser usado para encontrar as raízes de uma função contínua {\textstyle f:[a,b]\to \mathbb {R} }
