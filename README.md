@@ -16,6 +16,6 @@ O método da bisseção é um método de busca de raízes que bissecta repetidam
 #### O método
 
 Este método pode ser usado para encontrar as raízes de uma função contínua f:[a,b] tal que R,y=f(x). Tendo f(a) e f(b) sinais opostos, ou seja f(a)·f(b)<0 .Nestas condições, o teorema do valor intermediário garante a existência de uma raiz no intervalo (a,b).O método consiste em dividir o intervalo no seu ponto médio c=(a+b)/2, e então verificar em qual dos dois subintervalos garante-se a existência de uma raiz. Para tanto, basta verificar se f(a)·f(c)<0. Caso afirmativo, existe pelo menos uma raiz no intervalo (a,c) , caso contrário garante-se a existência de uma raiz no intervalo (c,b). O procedimento é, então, repetido para o subintervalo correspondente à raiz até que  aproxime a raiz com a precisão desejada<br>
-<div align ="center">
-![bissection_gif](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Bisection_anime.gif)
+<div align="center">
+   <img height="250em" src="https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Bisection_anime.gif"/>
 </div>
