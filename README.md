@@ -7,3 +7,8 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 
 <b>Clique [aqui]() para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
 <br><br>by <b>Lucas Ramon e Maicon Rodrigues</b>
+## Zeros reais de funções reais
+
+### Método da bisseção
+
+O método da bisseção é um método de busca de raízes que bissecta repetidamente um intervalo e então seleciona um subintervalo contendo a raiz para processamento adicional
