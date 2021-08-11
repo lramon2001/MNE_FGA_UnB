@@ -19,3 +19,4 @@ Este método pode ser usado para encontrar as raízes de uma função contínua 
 <div align="center">
    <img height="250em" src="https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Bisection_anime.gif"/>
 </div>
+<b>Clique [aqui]() para ver a nossa implementação para o método.</b>
