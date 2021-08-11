@@ -19,4 +19,6 @@ Este método pode ser usado para encontrar as raízes de uma função contínua 
 <div align="center">
    <img height="250em" src="https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Bisection_anime.gif"/>
 </div>
-<b>Clique [aqui]() para ver a nossa implementação para o método.</b>
+
+<b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Zeros%20reais%20de%20funcoes%20reais/metodo_bissecao.m) para ver a nossa implementação para o método.</b>
+
