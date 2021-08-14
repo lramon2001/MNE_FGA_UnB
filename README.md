@@ -31,7 +31,7 @@ Método da posição falsa ou regula falsi é um método numérico usado para re
 
 O método da posição falsa é um método de confinamento usado para se obter a solução de uma equação na forma f(x)=0 quando se sabe que, dentro de um dado intervalo definido [a,b], f(x) é contínua e a equação possui uma solução. Os pontos finais do intervalo analisados são conectados por uma linha reta, sendo a estimativa para a raiz o ponto onde a reta cruza o eixo x.<br>
 <div align="center">
-   <img height="250em" src="https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Bisection_anime.gif"/>
+   <img height="250em" src="https://github.com/lramon2001/MNE_FGA_UnB/blob/master/regulafalsi.gif"/>
 </div>
 
 <b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Zeros%20reais%20de%20funcoes%20reais/metodo_bissecao.m) para ver a nossa implementação para o método.</b>
