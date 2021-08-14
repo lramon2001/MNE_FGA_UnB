@@ -24,7 +24,7 @@ Este método pode ser usado para encontrar as raízes de uma função contínua 
 
 ### Método da posição falsa (Regula falsi)
 
-Método da posição falsa ou regula falsi é um método numérico usado para resolver equações lineares definidas em um intervalo [a, b], partindo do pressuposto de que haja uma solução em um subintervalo contido em [a, b]. E assim, diminuindo esse subintervalo em partes cada vez menores, a solução estará onde a função tem sinais opostos, segundo o Teorema do Valor Intermediário. A determinação do tamanho do subintervalo é definida pelo critério de exatidão.****
+Método da posição falsa ou regula falsi é um método numérico usado para resolver equações lineares definidas em um intervalo [a, b], partindo do pressuposto de que haja uma solução em um subintervalo contido em [a, b]. E assim, diminuindo esse subintervalo em partes cada vez menores, a solução estará onde a função tem sinais opostos, segundo o Teorema do Valor Intermediário. A determinação do tamanho do subintervalo é definida pelo critério de exatidão.
 
 #### O método
 Partimos de um intervalo inicial [a0,b0] com f(a0), e f(b) de sinais opostos, assegurando que no interior existe pelo menos uma raiz, de acordo com o Teorema do Valor Intermediário. O objetivo do algoritmo é obter em cada passo um menor intervalo [ak,bk] que ainda contenha uma raiz da função f.
