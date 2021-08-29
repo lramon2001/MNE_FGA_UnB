@@ -1,6 +1,7 @@
 # MNE_FGA_UnB
 MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos para engenharia do Professor Ronne Toledo da FGA-UnB
-
+## Link para conferir conversão de binários
+Clique aqui(https://pt.planetcalc.com/862/) para ir ao site que converte números de acordo com a base desejada.
 ## Lista 1
 
 <b>A lista 1 foi, basicamente, uma resolução de equações,ou seja, encontrar raizes reais de funções reais. Com x problemas de resolução puramente matematica na linguagem MATLAB. Os problemas serão listados a seguir e há links associados a eles.</b>
