@@ -2,6 +2,8 @@
 MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos para engenharia do Professor Ronne Toledo da FGA-UnB
 ## Link para conferir conversão de binários
 <b>Clique [aqui](https://pt.planetcalc.com/862/) para ir ao site que converte números de acordo com a base desejada.</b>
+## Link para conferir resolução de sistemas lineares
+<b>Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.</b>
 ## Lista 1
 
 <b>A lista 1 foi, basicamente, uma resolução de equações,ou seja, encontrar raizes reais de funções reais. Com x problemas de resolução puramente matematica na linguagem MATLAB. Os problemas serão listados a seguir e há links associados a eles.</b>
