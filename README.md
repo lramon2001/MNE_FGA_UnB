@@ -6,7 +6,14 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 <b>Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.</b>
 ## Lista 1
 
-<b>A lista 1 foi, basicamente, uma resolução de equações,ou seja, encontrar raizes reais de funções reais. Com x problemas de resolução puramente matematica na linguagem MATLAB. Os problemas serão listados a seguir e há links associados a eles.</b>
+<b> Na lista um foi explorada a habilidade de conversão de bases numéricas, problemas de erros (relativo ou absoluto) e séries numéricas.</b>
+
+<b>Clique [aqui]() para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
+<br><br>by <b>Lucas Ramon e Maicon Rodrigues</b>
+
+## Lista 2
+
+<b> Na lista dois foi explorada a habilidade de resolução de equações utilizando os métodos numéricos e solução de sistemas lineares.</b>
 
 <b>Clique [aqui]() para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
 <br><br>by <b>Lucas Ramon e Maicon Rodrigues</b>
