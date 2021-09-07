@@ -4,7 +4,8 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 <b>Clique [aqui](https://pt.planetcalc.com/862/) para ir ao site que converte números de acordo com a base desejada.</b>
 ## Link para conferir resolução de sistemas lineares
 <b>Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.</b>
-## Lista 1
+## Lista 1 
+<p> A lista 1 está disponível, para acessá-la clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/tree/master/Listas/problemas/Problemas_Lista_1).
 
 <b> Na lista um foi explorada a habilidade de conversão de bases numéricas, problemas de erros (relativo ou absoluto) e séries numéricas.</b>
 
@@ -12,10 +13,10 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 <br><br>by <b>Lucas Ramon e Maicon Rodrigues</b>
 
 ## Lista 2
-
+<p> A lista 2 está disponível, para acessá-la clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/tree/master/Listas/problemas/Problemas_Lista_2).
 <b> Na lista dois foi explorada a habilidade de resolução de equações utilizando os métodos numéricos e solução de sistemas lineares.</b>
 
-<b>Clique [aqui]() para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
+<b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/tree/master/Listas/solucoes/Lista_2) para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
 <br><br>by <b>Lucas Ramon e Maicon Rodrigues</b>
 ## Zeros reais de funções reais
 
