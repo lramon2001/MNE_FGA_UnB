@@ -8,7 +8,7 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 
 <b> Na lista um foi explorada a habilidade de conversão de bases numéricas, problemas de erros (relativo ou absoluto) e séries numéricas.</b>
 
-<b>Clique [aqui]() para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
+<b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/tree/master/Listas/solucoes/Lista_1) para ver as soluções feitas por mim e pelo Maicon Rodrigues .</b>
 <br><br>by <b>Lucas Ramon e Maicon Rodrigues</b>
 
 ## Lista 2
