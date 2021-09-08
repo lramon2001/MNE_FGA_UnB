@@ -55,4 +55,4 @@ Em análise numérica, o método de Newton (ou Método de Newton–Raphson), des
    <img height="250em" src="https://github.com/lramon2001/MNE_FGA_UnB/blob/master/newtonraphson.gif"/>
 </div>
 
-<b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Zeros%20reais%20de%20funcoes%20reais/metodo_posicao_falsa.m) para ver a nossa implementação para o método.</b>
+<b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Zeros%20reais%20de%20funcoes%20reais/newtonrapson.m) para ver a nossa implementação para o método.</b>
