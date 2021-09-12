@@ -5,7 +5,7 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 ## Link para conferir resolução de sistemas lineares
 <b>Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.</b>
 ## Plotar gráficos em MATLAB
-<b>Clique [aqui](https://matrixcalc.org/pt/) para acessar um script que plota um exemplo de gráfico em Matlab.</b>
+<b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Linguaguem%20de%20Programacao/plotar_grafico.m) para acessar um script que plota um exemplo de gráfico em Matlab.</b>
 ## Lista 1 
 <b> A lista 1 está disponível, para acessá-la clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/tree/master/Listas/problemas/Problemas_Lista_1) .</b>
 
