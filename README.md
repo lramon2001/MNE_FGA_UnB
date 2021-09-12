@@ -4,6 +4,8 @@ MNE_FGA_UnB 📚-Repositório Criado para a disciplina de Métodos numéricos pa
 <b>Clique [aqui](https://pt.planetcalc.com/862/) para ir ao site que converte números de acordo com a base desejada.</b>
 ## Link para conferir resolução de sistemas lineares
 <b>Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.</b>
+## Plotar gráficos em MATLAB
+<b>Clique [aqui](https://matrixcalc.org/pt/) para acessar um script que plota um exemplo de gráfico em Matlab.</b>
 ## Lista 1 
 <b> A lista 1 está disponível, para acessá-la clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/tree/master/Listas/problemas/Problemas_Lista_1) .</b>
 
