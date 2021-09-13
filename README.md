@@ -57,20 +57,17 @@ Em análise numérica, o método de Newton (ou Método de Newton–Raphson), des
 
 <b>Clique [aqui](https://github.com/lramon2001/MNE_FGA_UnB/blob/master/Zeros%20reais%20de%20funcoes%20reais/newtonrapson.m) para ver a nossa implementação para o método.</b>
 
-#### Links para verificação de contas
+## Links para verificação de contas
 
-## Link para conferir conversão de binários
-<b>Clique [aqui](https://pt.planetcalc.com/862/) para ir ao site que converte números de acordo com a base desejada.</b>
+### Para conferir conversão de binários
+  * Clique [aqui](https://pt.planetcalc.com/862/) para ir ao site que converte números de acordo com a base desejada.
 
+### Para conferir resolução de sistemas lineares
+  * Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.
 
-## Link para conferir resolução de sistemas lineares
-<b>Clique [aqui](https://matrixcalc.org/pt/) para ir ao site que demonstra a solução de um sistema linear.</b>
+### Para conferir resolução por Gauss Seidel
+  * Clique [aqui](https://atozmath.com/CONM/GaussEli.aspx?q=GS2&q1=2%608x%2b2y%2b3z%3d51%3b2x%2b5y%2b1z%3d23%3b-3x%2by%2b6z%3d20%60GS2%60%601.25&dm=D&dp=4&do=1#PrevPart) para ir ao site que demonstra a solução de um sistema linear por Gauss Sidel.
 
-
-## Link para conferir resolução por Gauss Seidel
-<b>Clique [aqui](https://atozmath.com/CONM/GaussEli.aspx?q=GS2&q1=2%608x%2b2y%2b3z%3d51%3b2x%2b5y%2b1z%3d23%3b-3x%2by%2b6z%3d20%60GS2%60%601.25&dm=D&dp=4&do=1#PrevPart) para ir ao site que demonstra a solução de um sistema linear por Gauss Sidel.</b>
-
-
-## Link para conferir erro
-<b>Clique [aqui](https://conversor-de-medidas.com/ep/) para ir ao site que demonstra a solução de um sistema linear por Gauss Sidel.</b>
+### Para conferir erro
+  * Clique [aqui](https://conversor-de-medidas.com/ep/) para ir ao site que demonstra a solução de um sistema linear por Gauss Sidel.
 
