@@ -72,3 +72,9 @@ Em análise numérica, o método de Newton (ou Método de Newton–Raphson), des
   * Clique [aqui](https://conversor-de-medidas.com/ep/) para ir ao site que demonstra a solução de um sistema linear por Gauss Sidel.
 ### Link para conferir interpolação de Lagrange
   * Clique [aqui](https://pt.planetcalc.com/8692/) para ir ao site que demonstra a interpolação por Lagrange.
+### Link para conferir interpolação de Método dos Mínimos Quadrados
+  * Clique [aqui](https://pt.planetcalc.com/8735/) para ir ao site que demonstra a solução por mínimos quadrados.
+### Link para conferir integração numérica
+  * Clique [aqui](https://pt.planetcalc.com/5494/#calculator6472) para ir ao site que demonstra a solução de integração.
+
+  
